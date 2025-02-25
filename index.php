@@ -33,9 +33,12 @@
         foreach($data as $name => $age){
             echo "$name ma $age rokov <br>";
         };
+
+
+        
         
         //uloha
-        $pole = array("jeden","dva","tri","styri")
+        $pole = array("jeden","dva","tri","styri");
         foreach($pole as $cisla){
             echo "cisla: ".$cisla."<br>";
         };
