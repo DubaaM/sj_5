@@ -34,7 +34,10 @@
             echo "$name ma $age rokov <br>";
         };
 
-        
+        $pole = array("jeden","dva","tri","styri")
+        foreach($pole as $cisla){
+            echo "cisla: ".$cisla."<br>";
+        };
 
 
     
